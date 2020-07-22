@@ -39,10 +39,15 @@
             <!--<systemPath>${basedir}/lib/fastdfs-client-java-1.27-SNAPSHOT.jar</systemPath>-->
         <!--</dependency>-->
         <!--开源中国2017提供-->
+<!--        <dependency>-->
+<!--            <groupId>net.oschina.zcx7878</groupId>-->
+<!--            <artifactId>fastdfs-client-java</artifactId>-->
+<!--            <version>1.27.0.0</version>-->
+<!--        </dependency>-->
         <dependency>
-            <groupId>net.oschina.zcx7878</groupId>
+            <groupId>org.csource</groupId>
             <artifactId>fastdfs-client-java</artifactId>
-            <version>1.27.0.0</version>
+            <version>1.27-SNAPSHOT</version>
         </dependency>
 
     </dependencies>
